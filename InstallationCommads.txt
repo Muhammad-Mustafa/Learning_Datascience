@@ -1,3 +1,4 @@
 This doc contains the list of commands that I use to install all the libraries 
 
-1. pip intall seaborn
+pip install seaborn
+pip install plotly  
