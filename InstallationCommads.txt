@@ -2,3 +2,4 @@ This doc contains the list of commands that I use to install all the libraries
 
 pip install seaborn
 pip install plotly  
+pip install numpy
